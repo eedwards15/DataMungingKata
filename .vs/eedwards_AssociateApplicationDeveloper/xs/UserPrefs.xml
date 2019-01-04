@@ -1,0 +1,12 @@
+﻿<Properties StartupConfiguration="{7528E2D1-3451-4F7F-A51F-214A313974F4}|Default">
+  <MonoDevelop.Ide.ItemProperties.eedwards__AssociateApplicationDeveloper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../GitRepos/Zion/ZionCoreApi/FileHasher/Program.cs" line="18" offsetX="414" offsetY="260" expression="records" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
